@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cam. A pretty good developer, self-identified [scanner](https://medium.com/@sebastianmartin2044/on-being-a-scanner-personality-9cfb4129c5d#:~:text=Scanners%20are%20people%20who%20like,single%20occupation%2C%20hobby%20or%20career.&text=Scanners%20often%20start%20with%20one,it%20after%20a%20short%20time.), efficiency enthusiast.
+I'm Cam. A good developer, self-identified [scanner](https://medium.com/@sebastianmartin2044/on-being-a-scanner-personality-9cfb4129c5d#:~:text=Scanners%20are%20people%20who%20like,single%20occupation%2C%20hobby%20or%20career.&text=Scanners%20often%20start%20with%20one,it%20after%20a%20short%20time.), efficiency enthusiast.
 
 I'm writing this on a whim because I heard about this feature. Hopefully I come back to fill it out more later!
 
